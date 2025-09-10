@@ -1,8 +1,8 @@
 # Hi there, I'm Ramtin! 👋
 
-🚀 **Front-End Developer | Passionate about Building Engaging Web Experiences**
+🚀 **Front-End Developer | Crafting Engaging Web Experiences**
 
-Welcome to my GitHub profile! I'm a **junior front-end developer** with a strong passion for creating modern, user-friendly, and highly interactive web applications. I specialize in building responsive and optimized UIs using cutting-edge technologies. My focus is on writing clean, maintainable code and continuously learning new skills to enhance my development workflow.
+Welcome to my GitHub profile! I'm a **junior front-end developer** passionate about building modern, responsive, and interactive web applications. I focus on creating **clean, maintainable code**, optimizing user interfaces, and continuously learning **cutting-edge technologies** to enhance my development workflow and deliver high-quality experiences.
 
 ## 🌱 What I'm Currently Learning
 
